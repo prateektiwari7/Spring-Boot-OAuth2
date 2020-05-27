@@ -2,16 +2,16 @@
 
 1. Get Authorisation from here 
 
-    http://localhost:8080/oauth/authorize?client_id=javadevjournal&response_type=code&scope=user_info
+        http://localhost:8080/oauth/authorize?client_id=javadevjournal&response_type=code&scope=user_info
 
 2. Oauth Approval Options 
 
-     Approve 
-     Deny 
+        Approve 
+        Deny 
      
 3. Get login code 
 
-    http://localhost:8081/login?code=13428u)
+        http://localhost:8081/login?code=13428u)
 
 4. Get Access Token 
 
